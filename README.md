@@ -1,2 +1,2 @@
 # Regression-Analysis
-Regression analysis along with backward elimination implementation for finding the most influential attributes affecting the dependent variable
+Regression analysis applied on two sample datasets along with backward elimination method implementation.
